@@ -12,7 +12,7 @@
     try {
         firebase.initializeApp(config);
     }catch(err){
-        console.log('Redirect to offline page!');
+        console.log('Redirect to offline page! Create a offline page.');
     }
 
 </script>
